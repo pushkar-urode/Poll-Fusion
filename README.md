@@ -1,6 +1,7 @@
 # LivePoll Realtime Voting App
 
 LivePoll is a small real-time voting application where users can create polls, share them, and vote instantly. The app uses React on the frontend, Node.js/Express on the backend, Socket.IO for live updates, and MongoDB for storing polls.
+
 Project Live Link - https://poll-fusion.onrender.com
 
 ## Features
