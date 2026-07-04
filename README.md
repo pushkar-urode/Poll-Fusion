@@ -69,5 +69,5 @@ From the root directory:
 
 ## Notes
 
-- The backend serves the production React build when the app is started in production mode.
+- The backend serves the production React build when app is started in production mode.
 - Socket.IO is used for live vote updates inside each poll room.
